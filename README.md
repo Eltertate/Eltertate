@@ -44,7 +44,7 @@ I am Elterate. I have been studying programming for 3 years now. During this tim
 **`So long as a problem doesn’t cause problems, it can’t be called a problem. *hikigaya`**
 
 ##
-![Eltertates's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eltertate&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eltertate&show_icons=true&theme=gruvbox)
 
 
  
