@@ -2,7 +2,6 @@
   <a href="https://github.com/DenverCoder1">
     <img src="https://github.com/Eltertate/Eltertate/blob/main/Eltertate.svg" alt="Eltertate" /></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web+&pause=1000&width=435&lines=I+am+just+a+regular+C%23%2FPython+programmer;Always+learning+something+new+for+me!💻"/></a>
