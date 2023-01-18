@@ -46,7 +46,7 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 
 ##
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eltertate_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eltertate&theme=gruvbox)
 
 
 
