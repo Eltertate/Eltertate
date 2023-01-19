@@ -61,6 +61,7 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 ##
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eltertate&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eltertate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
