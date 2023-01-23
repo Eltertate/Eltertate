@@ -38,7 +38,6 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 <p>
 <img align="left" alt="Atom" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="debian" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
@@ -63,11 +62,9 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 <a href="https://stackoverflow.com/users/21020481/noname">
   <img align="left" alt="StackOverflow" width="30px" style="padding-right:10px;" img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
 </a>
-
 <br />
 
 ##
-
 
 ![wallpaper-anime](https://user-images.githubusercontent.com/116920374/211173283-0468186e-2d9a-4ff5-96d2-e60a2f40ddc0.gif)
 
