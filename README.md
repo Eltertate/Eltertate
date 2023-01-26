@@ -72,9 +72,10 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 **`So long as a problem doesn’t cause problems, it can’t be called a problem. *hikigaya`**
 
 ##
-![My stats](https://github-readme-stats.vercel.app/api?username=Eltertate&theme=github_dark)
-[![Tope Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eltertate&layout=compact)](https://github.com/Eltertate/github-readme-stats)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eltertate&show_icons=true&theme=github_dark)
+
+<a href="https://github.com/Eltertate/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eltertate&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 
