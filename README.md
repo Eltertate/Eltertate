@@ -10,7 +10,7 @@
 
 # 🧑🏻‍💻 Eltertate
 
-**`Student of Programming`**
+**`Student of Programming/Professional Googler`**
 
 I am **Elterate**. I have been studying programming for **2 years** now. During this time, I learned how to program various kinds and complexity of the program (Mathematical problems from **Project_Euler** to bots for social networks). Studied several programming languages and ready to learn more! I plan to deepen my knowledge in the field of Linux, computer networks, cryptography and application development for Linux and Windows.
 
