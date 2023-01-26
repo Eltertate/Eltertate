@@ -3,8 +3,9 @@
     <img src="https://github.com/Eltertate/Eltertate/blob/main/Eltertate.svg" alt="Eltertate" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web+&pause=1000&width=435&lines=I+am+just+a+regular+C%23%2FPython+programmer;Always+learning+something+new+for+me!💻"/></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web+&pause=1000&center=true&width=435&lines=Always+learning+something+new+for+me;My+best+skill+it+a+googling;I+think+I+should+change+this+text;I'm+not+a+magician+I'm+just+learning" alt="Typing SVG" />
+  </a>
 </p>
 
 
