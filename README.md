@@ -89,8 +89,6 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 
 **`So long as a problem doesn’t cause problems, it can’t be called a problem. *hikigaya`**
 
-<br />
-
 <h2>🔥 Streak: </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eltertate&theme=github-dark-blue)](https://git.io/streak-stats) <a href="https://github.com/Eltertate/github-readme-stats">
