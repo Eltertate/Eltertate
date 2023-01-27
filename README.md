@@ -74,8 +74,21 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
   <img align="left" alt="StackOverflow" width="40px" style="padding-right:10px;" img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
 </a>
 <br />
+<br />
 
-##
+<h2>📚 Curent Learning</h2>
+
+<h2>
+
+* Discord.js (Basics)
+* JavaScript (Basics)
+* Node.JS (Basics)
+* Python (Object-oriented programming)
+* C#
+
+</h2>
+
+<br />
 
 ![wallpaper-anime](https://user-images.githubusercontent.com/116920374/211173283-0468186e-2d9a-4ff5-96d2-e60a2f40ddc0.gif)
 
