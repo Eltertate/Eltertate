@@ -84,12 +84,12 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 ##
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eltertate&theme=react)](https://git.io/streak-stats) <a href="https://github.com/Eltertate/github-readme-stats">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eltertate&theme=github-dark-blue)](https://git.io/streak-stats) <a href="https://github.com/Eltertate/github-readme-stats">
 
 #
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eltertate's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Eltertate&show_icons=true&include_all_commits=true&count_private=true&theme=react" height="192px"/></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eltertate's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eltertate&langs_count=8&layout=compact&theme=react" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eltertate's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Eltertate&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="192px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eltertate's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eltertate&langs_count=8&layout=compact&theme=github_dark" height="192px"/></a>
   
 #
  
