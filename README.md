@@ -47,6 +47,7 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
  <img align="left" alt="Trello" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="debian" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="Discord.js" width="30px" style="padding-right:10px;" img src="https://camo.githubusercontent.com/36dddbf2f91241b3bf4b31af97c6fde92f911ba621c5dae84cd3f6cdff6f4d0c/68747470733a2f2f6b6f79612e67672f6173736574732f696d672f646973636f72646a732d6c6f676f2e706e67" />
 <img align="left" alt="OpemaiAPI" width="30px" style="padding-right:10px;" img src="https://github.com/Eltertate/Eltertate/blob/main/image.png?raw=true" />
 <img align="left" alt="Atom" width="30px" style="padding-right:10px;" img src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
