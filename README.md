@@ -79,6 +79,8 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 
 ![wallpaper-anime](https://user-images.githubusercontent.com/116920374/211173283-0468186e-2d9a-4ff5-96d2-e60a2f40ddc0.gif)
 
+**`So long as a problem doesn’t cause problems, it can’t be called a problem. *hikigaya`**
+
  <p align="left">
      <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Eltertate&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Discord-bot&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
@@ -86,8 +88,6 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
      <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Grzybica_Linux&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Project_Euler&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
 </p>
-
-**`So long as a problem doesn’t cause problems, it can’t be called a problem. *hikigaya`**
 
 <h2>🔥 Streak: </h2>
 
