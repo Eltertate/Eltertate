@@ -88,8 +88,8 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 
 #
   
-<a href="https://github.com/Eltertate/github-readme-stats"><img alt="Eltertate's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Eltertate&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true,Roff" width="350" height="192px"/></a>
-  <a href="https://github.com/Eltertate/github-readme-stats"><img alt="Eltertate's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eltertate&langs_count=8&layout=compact&theme=github_dark&hide_border=true,Roff" width="375" height="192px"/></a>
+<a href="https://github.com/Eltertate/github-readme-stats"><img alt="Eltertate's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Eltertate&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true,Roff" width="450px" height="192px"/></a>
+  <a href="https://github.com/Eltertate/github-readme-stats"><img alt="Eltertate's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Eltertate&langs_count=8&layout=compact&theme=github_dark&hide_border=true,Roff" width="375px" height="192px"/></a>
   
 #
  
