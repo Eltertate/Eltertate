@@ -76,7 +76,7 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 <br />
 <br />
 
-<h2>📚 Curent Learning</h2>
+<h2>📚 Currently Learning</h2>
 
 <h2>
 
