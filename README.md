@@ -8,7 +8,6 @@
   </a>
 </p>
 
-
 # 🧑🏻‍💻 Eltertate
 
 **`Student of Programming/Professional Googler`**
