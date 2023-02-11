@@ -107,7 +107,6 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
      <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Discord-bot&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Study-JavaScript&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Grzybica_Linux&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Project_Euler&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
 </p>
 
 <h2>🔥 Streak: </h2>
