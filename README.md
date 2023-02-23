@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# 🧑🏻‍💻 Eltertate
+# Eltertate
 
 **`Student of Programming`**
 
@@ -25,7 +25,7 @@
 
 <br />
 
-### 💻 Languages what I use: 💻 ###
+### Languages what I use: ###
 <br />
 <p>
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -36,7 +36,7 @@
 <br />
 <br />
 
-### 🧰 Tools what I use: 🧰 ###
+### Tools what I use: ###
 
 <br />
 <p>
