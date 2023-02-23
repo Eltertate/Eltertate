@@ -10,9 +10,7 @@
 
 # 🧑🏻‍💻 Eltertate
 
-**`Student of Programming/Professional Googler`**
-
-I am **Elterate**. I have been studying programming for **2 years** now. During this time, I learned how to program various kinds and complexity of the program (Mathematical problems from **Project_Euler** to bots for social networks). Studied several programming languages and ready to learn more! I plan to deepen my knowledge in the field of Linux, computer networks, cryptography and application development for Linux and Windows.
+**`Student of Programming`**
 
 **I can communicate in 3 languages 🇺🇦Ukrainian 🇺🇸English 🇵🇱Polish**
 
@@ -33,10 +31,7 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="CScharp" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
-<img align="left" alt="HTML5" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 </p>
 <br />
 <br />
@@ -45,27 +40,17 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 
 <br />
 <p>
-<img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-<img align="left" alt="Discord.js" width="40px" style="padding-right:10px;" img src="https://camo.githubusercontent.com/36dddbf2f91241b3bf4b31af97c6fde92f911ba621c5dae84cd3f6cdff6f4d0c/68747470733a2f2f6b6f79612e67672f6173736574732f696d672f646973636f72646a732d6c6f676f2e706e67" />
-<img align="left" alt="OpemaiAPI" width="40px" style="padding-right:10px;" img src="https://github.com/Eltertate/Eltertate/blob/main/image.png?raw=true" />
-<img align="left" alt="Atom" width="40px" style="padding-right:10px;" img src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
+
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Trello" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="debian" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" alt="Github" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Windows" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="VS" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="VSCODE" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
-<br />
-<br />
 
-### 🪪 My profiles: 🪪 ###
-
-<br />
 <p>
 
 <a href="https://www.codewars.com/users/Eltertate_F">
@@ -100,14 +85,6 @@ I am **Elterate**. I have been studying programming for **2 years** now. During 
 ![wallpaper-anime](https://user-images.githubusercontent.com/116920374/211173283-0468186e-2d9a-4ff5-96d2-e60a2f40ddc0.gif)
 
 **`So long as a problem doesn’t cause problems, it can’t be called a problem. *hikigaya`**
-
- <p align="left">
-     <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Eltertate&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=information_collector&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Discord-bot&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Study-JavaScript&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/Eltertate/github-readme-streak-stats"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eltertate&repo=Grzybica_Linux&theme=github_dark&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-</p>
 
 <h2>🔥 Streak: </h2>
 
