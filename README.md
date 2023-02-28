@@ -50,21 +50,6 @@
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
-
-<p>
-
-<a href="https://www.codewars.com/users/Eltertate_F">
-  <img align="left" alt="Codewars" width="40px" style="padding-right:10px;" img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" />
-</a>
-
-<a href="https://leetcode.com/Eltertate/">
-  <img align="left" alt="Leetcode" width="40px" style="padding-right:10px;" img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
-</a>
-
-<a href="https://stackoverflow.com/users/21020481/noname">
-  <img align="left" alt="StackOverflow" width="40px" style="padding-right:10px;" img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
-</a>
-</p>
 <br />
 <br />
 
