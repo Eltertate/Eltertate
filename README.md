@@ -12,7 +12,7 @@
 
 **`Student of Programming`**
 
-**I can communicate in 3 languages 🇺🇦Ukrainian 🇺🇸English 🇵🇱Polish**
+**I can communicate in 4 languages 🇺🇦Ukrainian 🇷🇺Russian 🇺🇸English 🇵🇱Polish**
 
   
 
