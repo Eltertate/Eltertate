@@ -57,11 +57,13 @@
 
 <h2>
 
-* Discord.js (Basics)
-* JavaScript (Basics)
-* Node.JS (Basics)
-* Python (Object-oriented programming)
+* Angular
+* React
 * C#
+* Python
+* C++
+* JS
+* Algorithms
 
 </h2>
 
