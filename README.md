@@ -15,7 +15,7 @@
 **I can communicate in 3 languages 🇺🇦Ukrainian 🇺🇸English 🇵🇱Polish**
 
   
-[![Discord](https://img.shields.io/badge/FoxLin%234105-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://discord.com/users/1016275107687170140)
+
   <a href="https://github.com/Eltertate?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Eltertate?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://github.com/Eltertate?tab=followers">
